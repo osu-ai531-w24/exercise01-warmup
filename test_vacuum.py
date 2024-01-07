@@ -21,6 +21,10 @@ class TestVacuum(unittest.TestCase):
         except NameError:
             self.fail("Could not instantiate Vacuum")
 
+    """
+    Methods
+    """
+
     # def test_move_left(self):
     #     """
     #     A Vacuum can be told to move left.
