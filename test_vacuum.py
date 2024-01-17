@@ -1,4 +1,4 @@
-# DO NOT MODIFY THIS FILE
+# DO NOT MODIFY THE CODE, OTHER THAN UNCOMMENTING THE NECESSARY TESTS
 # Run me via: python3 -m unittest test_vacuum
 
 import unittest
